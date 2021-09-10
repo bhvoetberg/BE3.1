@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         Appartment a = new Appartment("Spoorstraat","4");
         System.out.println(a.toString());
+
     }
 }
