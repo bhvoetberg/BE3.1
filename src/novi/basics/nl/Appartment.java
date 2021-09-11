@@ -71,4 +71,6 @@ public class Appartment {
         stringBuilder.append("\n\r");
         return stringBuilder.toString();
     }
+
+
 }
